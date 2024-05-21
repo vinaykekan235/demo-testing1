@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        Creating a React app through the Command Line Interface (CLI) involves using a tool called Create React App. This tool sets up a modern web development environment with no configuration. Here’s how you can create a React app using Create React App:
+        Creating a React app thr
         </a>
       </header>
     </div>
